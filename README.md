@@ -3,3 +3,4 @@ run command python tor_search.py
 dependisys needed:
 install command termanial
 pip install requests[socks] beautifulsoup4
+also u need tor open... sry bout that
